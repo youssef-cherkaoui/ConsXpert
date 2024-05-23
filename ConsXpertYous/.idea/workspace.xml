@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ConsXpertYous:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ae21066-4fdb-4570-a23f-41313771e49e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" afterPath="$PROJECT_DIR$/../.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea1/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea1/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea1/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea1/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea1/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn1/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn1/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/DAO/DBConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/DAO/ProjetDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/DAO/ProjetDAOImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/metier/Projet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/metier/Ressource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/metier/Tache.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/org/example/consxpertyous/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/servlet/AfficherProjet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/java/servlet/AjouterProjet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/webapp/AfficherProjet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/webapp/AjouterProjet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src1/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/AfficherProjet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/AjouterProjet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/DAO/DBConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/DAO/ProjetDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/DAO/ProjetDAOImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/metier/Projet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/metier/Ressource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/metier/Tache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/org/example/consxpertyous/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/servlet/AfficherProjet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/classes/servlet/AjouterProjet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/lib/jakarta.el-api-5.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/lib/jakarta.servlet.jsp.jstl-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-3.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/ConsXpertYous-1.0-SNAPSHOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/DAO/DBConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/DAO/ProjetDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/DAO/ProjetDAOImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/metier/Projet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/metier/Ressource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/metier/Tache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/org/example/consxpertyous/HelloServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/servlet/AfficherProjet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target1/classes/servlet/AjouterProjet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap/_media.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap/mixins/_border-radius.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap/mixins/_screen-reader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap/mixins/_visibility.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/bootstrap/utilities/_stretched-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/ImgHome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../images/image-removebg-preview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../js/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/bootstrap/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scss/style.scss" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gpN1x9NN4VFnjVpIWSk3jkAgeV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 10.1.20.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/sidebar-03/ConsXpert/ConsXpertYous/src/main/webapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\sidebar-03\ConsXpert\ConsXpertYous\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 10.1.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.20" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="ConsXpertYous:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ConsXpertYous_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="41b83aa0-eeb7-4342-8e22-3cc0381a03a6" />
+        <option name="HTTP_PORT" value="8089" />
+        <option name="JNDI_PORT" value="1090" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64388" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ConsXpertYous:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ae21066-4fdb-4570-a23f-41313771e49e" name="Changes" comment="" />
+      <created>1716390348821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716390348821</updated>
+      <workItem from="1716390349430" duration="930000" />
+      <workItem from="1716391296418" duration="3182000" />
+      <workItem from="1716395845459" duration="4423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/AfficherProjet.jsp</url>
+          <line>84</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
