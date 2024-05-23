@@ -1,6 +1,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -14,9 +16,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="bootstrap/_media.css">
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 
 </head>
 <body>
+
 
 <div class="wrapper d-flex align-items-stretch" style="background-color: #B51B75;">
     <nav id="sidebar" class="active">
@@ -30,10 +34,10 @@
             <h1><a href="index.jsp" class="logo">ConsXpert</a></h1>
             <ul class="list-unstyled components mb-5">
                 <li class="active">
-                    <a href="#"><span class="fa fa-home mr-3"></span> Home</a>
+                    <a href="index.jsp"><span class="fa fa-home mr-3"></span> Home</a>
                 </li>
                 <li>
-                    <a href="#"><span class="fa fa-user mr-3"></span> Projets</a>
+                    <a href="Projet.jsp"><span class="fa fa-user mr-3"></span> Projets</a>
                 </li>
                 <li>
                     <a href="#"><span class="fa fa-briefcase mr-3"></span> Tâches</a>
@@ -54,6 +58,7 @@
 
         </div>
     </nav>
+
     <div class="container mt-5">
         <div class="row justify-content-center" style="background-color:#B51B75;" >
             <div class="col-md-8">
@@ -108,8 +113,7 @@
 
     <!-- Include Bootstrap JS and dependencies -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.js"></script>
     <script src="js/bootstrap.min.js"></script>

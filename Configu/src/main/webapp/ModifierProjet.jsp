@@ -30,10 +30,10 @@
             <h1><a href="index.jsp" class="logo">ConsXpert</a></h1>
             <ul class="list-unstyled components mb-5">
                 <li class="active">
-                    <a href="#"><span class="fa fa-home mr-3"></span> Home</a>
+                    <a href="index.jsp"><span class="fa fa-home mr-3"></span> Home</a>
                 </li>
                 <li>
-                    <a href="#"><span class="fa fa-user mr-3"></span> Projets</a>
+                    <a href="Projet.jsp"><span class="fa fa-user mr-3"></span> Projets</a>
                 </li>
                 <li>
                     <a href="#"><span class="fa fa-briefcase mr-3"></span> Tâches</a>
@@ -62,8 +62,8 @@
                         <h2 class="card-title">Modifier Projet</h2>
                     </div>
                     <div class="card-body">
-                        <form action="ModifierProjet" method="POST">
-                            <input type="hidden" name="id" value="${projet.id}">
+                        <form action="ModifierProjet" method="post">
+                            <input type="hidden" name="id" value="${projet.id_projet}">
                             <div class="form-group">
                                 <label for="Nom">Nom Projet</label>
                                 <input type="text" class="form-control" id="Nom" name="nom" value="${projet.nom}" placeholder="Nom Projet">
@@ -81,12 +81,12 @@
 
                             <div class="form-group">
                                 <label for="DateDebut">Date Début</label>
-                                <input type="date" class="form-control" id="DateDebut" name="date_debut" value="${projet.dateDebut}">
+                                <input type="date" class="form-control" id="DateDebut" name="date_debut" value="${projet.date_debut}">
                             </div>
 
                             <div class="form-group">
                                 <label for="DateFin">Date Fin</label>
-                                <input type="date" class="form-control" id="DateFin" name="date_fin" value="${projet.dateFin}">
+                                <input type="date" class="form-control" id="DateFin" name="date_fin" value="${projet.date_fin}">
                             </div>
 
                             <div class="container text-center">

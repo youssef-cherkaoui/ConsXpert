@@ -45,4 +45,34 @@ public class ModifierProjet extends HttpServlet {
             request.getRequestDispatcher("ModifierProjet.jsp").forward(request, response);
         }
 
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        // Récupérer les paramètres du formulaire
+        int idProjet = Integer.parseInt(request.getParameter("id"));
+        String nom = request.getParameter("nom");
+        String description = request.getParameter("description");
+        String dateDebut = request.getParameter("date_debut");
+        String dateFin = request.getParameter("date_fin");
+        String budget = request.getParameter("budget");
+
+        // Créer un objet Projet avec les nouvelles valeurs
+        Projet projet = new Projet();
+        projet.setId_projet(idProjet);
+        projet.setNom(nom);
+        projet.setDescription(description);
+        projet.setDate_debut(dateDebut);
+        projet.setDate_fin(dateFin);
+        projet.setBudget(budget);
+
+        // Mettre à jour le projet dans la base de données
+        try {
+            projetDAOImp.editProjet(projet);
+        } catch (SQLException | ClassNotFoundException e) {
+            throw new ServletException("Erreur lors de la mise à jour du projet", e);
+        }
+
+        // Rediriger vers une page de confirmation ou de liste des projets
+        response.sendRedirect("Projet.jsp");
     }
+
+
+}

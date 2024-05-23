@@ -65,7 +65,7 @@ public class ProjetDAOImp implements ProjetDAO{
     }
 
     @Override
-    public void deleteProjet(int id_projet) throws SQLException, ClassNotFoundException {
+    public void SupprimerProjet(int id_projet) throws SQLException, ClassNotFoundException {
         Connection connection = DBConnect.getConnection();
         String sql = "DELETE FROM project WHERE id_projet=?";
         try (PreparedStatement statement = connection.prepareStatement(sql)) {

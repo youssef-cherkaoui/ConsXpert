@@ -12,5 +12,15 @@
         <servlet-name>AjouterProjet</servlet-name>
         <url-pattern>/AjouterProjet</url-pattern>
     </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>SupprimerProjet</servlet-name>
+        <servlet-class>servlet.SupprimerProjet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SupprimerProjet</servlet-name>
+        <url-pattern>/SupprimerProjet</url-pattern>
+    </servlet-mapping>
     
 </web-app>
