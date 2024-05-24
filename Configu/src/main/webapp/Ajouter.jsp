@@ -21,9 +21,16 @@
 </head>
 <body>
 
+<style>
 
-<div class="wrapper d-flex align-items-stretch" style="background-color: #B51B75;">
-    <nav id="sidebar" class="active">
+    .btn btn-success btn-block{
+        color: white;
+    }
+</style>
+
+
+<div class="wrapper d-flex align-items-stretch" style="background-color: #5E1675;">
+    <nav id="sidebar" class="active" style="background-color: #5E1675;">
         <div class="custom-menu">
             <button type="button" id="sidebarCollapse" class="btn btn-primary">
                 <i class="fa fa-bars"></i>
@@ -52,7 +59,9 @@
 
             <div class="footer">
                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with Youssef<i class="icon-heart" aria-hidden="true"></i> CHERKAOUI <a style="color: azure;" target="_blank">Youssefessaddik.cherk@gmail.com</a>
+                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with YoussefCHERKAOUI <i class="icon-heart" aria-hidden="true"></i>
+                    <i style="color: #FFFDCB;">Youssefessaddik.cherk@gmail.com</i>
+                    <a style="color: rgb(222, 184, 135);" href="mailto:youssefessaddik.cherk.com?subject=Objet de l'email&body=Bonjour, ceci est le corps de l'email.">Envoyer un email</a>
                     <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
             </div>
 
@@ -60,7 +69,7 @@
     </nav>
 
     <div class="container mt-5">
-        <div class="row justify-content-center" style="background-color:#B51B75;" >
+        <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
                     <div class="card-header bg-primary text-white">
@@ -98,7 +107,8 @@
 
                             <div class="container test-center">
 
-                                <button type="submit" class="btn btn-success btn-block">Add</button>
+                                <!--<button type="submit" class="btn btn-success btn-block">Add</button>-->
+                                <button class="btn btn-success btn-block" style=" border-radius:20px; background-color: #F8D082; color: #000; border: none; padding: 10px 20px; font-size: 16px; font-weight: bold; cursor: pointer;text-align: center;text-decoration: none;transition: background-color 0.3s ease;display: inline-block;"><a href="Projet.jsp">Ajouter</a></button>
                             </div>
 
 
