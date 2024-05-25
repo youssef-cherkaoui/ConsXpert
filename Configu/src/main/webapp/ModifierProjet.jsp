@@ -18,7 +18,12 @@
 </head>
 <body>
 
-<div class="wrapper d-flex align-items-stretch" style="background-color: #5E1675;">
+<div class="wrapper d-flex align-items-stretch" style="background-color: #5E1675;" @media (max-width: 768px) {
+     .container {
+     width: 80%;
+     margin-right: 10%;
+     }
+     }>
     <nav id="sidebar" class="active" style="background-color: #5E1675;">
         <div class="custom-menu">
             <button type="button" id="sidebarCollapse" class="btn btn-primary">
@@ -96,7 +101,7 @@
                             </div>
 
                             <div class="container text-center">
-                                <button type="submit" class="btn btn-success btn-block">Modifier</button>
+                                <button type="submit" class="btn btn-success btn-block" style=" border-radius:20px; background-color: #F8D082; color: #000; border: none; padding: 10px 20px; font-size: 16px; font-weight: bold; cursor: pointer;text-align: center;text-decoration: none;transition: background-color 0.3s ease;display: inline-block;">Modifier</button>
                             </div>
                         </form>
                     </div>

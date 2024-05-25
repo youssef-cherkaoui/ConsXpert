@@ -17,7 +17,7 @@
             background-color: #f0f0f0;
         }
         .container {
-            max-width: 800px;
+            max-width: 100%;
             margin: 20px auto;
             background-color: #fff;
             padding: 20px;
@@ -41,6 +41,31 @@
         }
         th {
             background-color: #f2f2f2;
+        }
+        @media (max-width: 768px) {
+
+            #sidebar {
+                width: 100%;
+                height: auto;
+                position: relative;
+            }
+
+            .container {
+                height: 100%;
+                width: 100%;
+                margin: auto;
+                padding: 10px;
+            }
+            table, th, td {
+                font-size: 12px;
+            }
+            th, td {
+                padding: 8px;
+            }
+            .btn {
+                font-size: 12px;
+                padding: 5px 10px;
+            }
         }
     </style>
 </head>
@@ -100,6 +125,7 @@
             <th>Date de Début</th>
             <th>Date de Fin</th>
             <th>Budget</th>
+            <th>Actions</th>
         </tr>
         </thead>
         <tbody>
@@ -111,8 +137,8 @@
             <td><%= projet.getDate_fin() %></td>
             <td><%= projet.getBudget() %></td>
             <td>
-                <a href="ModifierProjet?id=<%= projet.getId_projet() %>" class="btn btn-edit">Modifier</a>
-                <a href="SupprimerProjet?id=<%= projet.getId_projet() %>" class="btn btn-delete" onclick="return confirm('Voulez-vous vraiment supprimer ce projet ?');">Supprimer</a>
+                <a href="ModifierProjet?id=<%= projet.getId_projet() %>" class="btn btn-warning btn-sm">Modifier</a>
+                <a href="SupprimerProjet?id=<%= projet.getId_projet() %>" class="btn btn-danger btn-sm" onclick="return confirm('Voulez-vous vraiment supprimer ce projet ?');">Supprimer</a>
             </td>
         </tr>
         <% } %>

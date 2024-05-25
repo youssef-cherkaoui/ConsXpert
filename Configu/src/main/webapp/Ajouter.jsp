@@ -72,7 +72,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header bg-primary text-white">
+                    <div class="card-header bg-primary text-white" style="background: #17a2b8">
                         <h2 class="card-title">Ajouter Projet</h2>
                     </div>
                     <div class="card-body">
